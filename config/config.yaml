@@ -479,8 +479,7 @@ rss:
         url: "http://bair.berkeley.edu/blog/feed.xml"
       - id: "deeplearning-ai-youtube"
         name: "DeepLearningAI (YouTube)"
-        url:
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w"
+        url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w"
       - id: "eric-jang"
         name: "Eric Jang"
         url: "http://blog.evjang.com/feeds/posts/default?alt=rss"
@@ -519,12 +518,10 @@ rss:
         url: "http://www.reddit.com/r/MachineLearning/.rss"
       - id: "yannic-kilcher"
         name: "Yannic Kilcher (YouTube)"
-        url:
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew"
+        url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew"
       - id: "two-minute-papers"
         name: "Two Minute Papers (YouTube)"
-        url:
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
+        url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
       - id: "pytorch"
         name: "PyTorch"
         url: "https://pytorch.org/feed"
